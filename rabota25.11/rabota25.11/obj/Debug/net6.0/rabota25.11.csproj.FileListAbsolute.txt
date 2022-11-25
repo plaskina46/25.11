@@ -1,0 +1,15 @@
+C:\Users\Ann\source\repos\rabota25.11\rabota25.11\bin\Debug\net6.0\rabota25.11.exe
+C:\Users\Ann\source\repos\rabota25.11\rabota25.11\bin\Debug\net6.0\rabota25.11.deps.json
+C:\Users\Ann\source\repos\rabota25.11\rabota25.11\bin\Debug\net6.0\rabota25.11.runtimeconfig.json
+C:\Users\Ann\source\repos\rabota25.11\rabota25.11\bin\Debug\net6.0\rabota25.11.dll
+C:\Users\Ann\source\repos\rabota25.11\rabota25.11\bin\Debug\net6.0\ref\rabota25.11.dll
+C:\Users\Ann\source\repos\rabota25.11\rabota25.11\bin\Debug\net6.0\rabota25.11.pdb
+C:\Users\Ann\source\repos\rabota25.11\rabota25.11\obj\Debug\net6.0\rabota25.11.csproj.AssemblyReference.cache
+C:\Users\Ann\source\repos\rabota25.11\rabota25.11\obj\Debug\net6.0\rabota25.11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ann\source\repos\rabota25.11\rabota25.11\obj\Debug\net6.0\rabota25.11.AssemblyInfoInputs.cache
+C:\Users\Ann\source\repos\rabota25.11\rabota25.11\obj\Debug\net6.0\rabota25.11.AssemblyInfo.cs
+C:\Users\Ann\source\repos\rabota25.11\rabota25.11\obj\Debug\net6.0\rabota25.11.csproj.CoreCompileInputs.cache
+C:\Users\Ann\source\repos\rabota25.11\rabota25.11\obj\Debug\net6.0\rabota25.11.dll
+C:\Users\Ann\source\repos\rabota25.11\rabota25.11\obj\Debug\net6.0\ref\rabota25.11.dll
+C:\Users\Ann\source\repos\rabota25.11\rabota25.11\obj\Debug\net6.0\rabota25.11.pdb
+C:\Users\Ann\source\repos\rabota25.11\rabota25.11\obj\Debug\net6.0\rabota25.11.genruntimeconfig.cache
